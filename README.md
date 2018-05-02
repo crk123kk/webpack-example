@@ -1,5 +1,5 @@
 # webpack-example
-关于webpack的一些使用实例
+关于webpack的一些使用实例，本地电脑需要安装webpack-cli才可以运行本项目
 
 ### webpackBase
 
