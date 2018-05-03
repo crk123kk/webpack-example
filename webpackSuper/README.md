@@ -4,3 +4,4 @@
 
 ## use
 执行npm run start == webpack-dev-server --open  端口：8081
+执行npm run build 可以执行打包命令
